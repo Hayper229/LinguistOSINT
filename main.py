@@ -24,7 +24,7 @@ db = {}
 #    pdfmetrics.registerFont(TTFont('FreeSans', FONT_PATH))
 #    MAIN_FONT = 'FreeSans'
 #else:
-#    MAIN_FONT = 'Helvetica'
+MAIN_FONT = 'Helvetica'
 
 # --- [ЛОГИКА АНАЛИЗА] ---
 def get_cosine(vec1, vec2):
